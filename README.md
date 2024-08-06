@@ -1,4 +1,4 @@
-# Rocket Rush [```live```]()
+# Rocket Rush [```live```](https://rocket-rush-chirag-khaitan.vercel.app)
 
 Welcome to **Rocket Rush**, a thrilling web game inspired by the classic 'Space Impact'. Control your rocket using hand gestures, avoid meteors, and enjoy immersive sound effects. Experience the excitement of space adventures with cutting-edge technology!
 
@@ -24,7 +24,7 @@ Welcome to **Rocket Rush**, a thrilling web game inspired by the classic 'Space 
 
 ## Demo
 
-Check out the live demo of Rocket Rush here [Click to Play]().
+Check out the live demo of Rocket Rush here [Click to Play](https://rocket-rush-chirag-khaitan.vercel.app).
 
 ## Installation
 
@@ -70,7 +70,7 @@ To run Rocket Rush locally, follow these steps:
 -   **ShadcnUi**
 
 -   **Vercel**
--   
+  
 
 ## Contributing
 
@@ -96,4 +96,5 @@ If you wish to connect with me, you can reach out through the following channels
 
 © 2024 Chirag Khaitan
 
-Enjoy playing Rocket Rush!
+
+Enjoy playing Rocket Rush 🚀!
