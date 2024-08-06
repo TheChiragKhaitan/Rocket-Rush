@@ -33,7 +33,6 @@ To run Rocket Rush locally, follow these steps:
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/TheChiragKhaitan/Rocket-Rush.git
-    cd Rocket-Rush
     ```
 
 2. **Install dependencies:**
