@@ -1,36 +1,99 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Rocket Rush [```live```]()
 
-## Getting Started
+Welcome to **Rocket Rush**, a thrilling web game inspired by the classic 'Space Impact'. Control your rocket using hand gestures, avoid meteors, and enjoy immersive sound effects. Experience the excitement of space adventures with cutting-edge technology!
 
-First, run the development server:
+![Rocket Rush Banner](public/RocketRush.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Features](#features)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Controls](#controls)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Hand Gesture Control:** Utilize Mediapipe to control the rocket with hand gestures.
+- **Collision Detection:** Detect collisions with meteors for an engaging gameplay experience.
+- **Sound Effects:** Experience dynamic sound effects powered by Tone.js.
+- **Smooth Animations:** Experience smooth and fluid animations for a seamless gaming experience.
 
-## Learn More
+## Demo
 
-To learn more about Next.js, take a look at the following resources:
+Check out the live demo of Rocket Rush here [Click to Play]().
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Installation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+To run Rocket Rush locally, follow these steps:
 
-## Deploy on Vercel
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/TheChiragKhaitan/Rocket-Rush.git
+    cd Rocket-Rush
+    ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2. **Install dependencies:**
+    ```bash
+    npm install
+    ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+3. **Start the development server:**
+    ```bash
+    npm run dev
+    ```
+
+4. Open your browser and navigate to `http://localhost:3000` to start playing.
+
+## Usage
+
+- **Launch the game:** Open the game in your browser.
+- **Allow camera access:** Grant camera access to enable hand gesture recognition.
+- **Start playing:** Use your hand gestures to control the rocket and avoid meteors.
+
+## Controls
+
+- **Move Left:** Move your hands to the left.
+- **Move Right:** Move your hands to the right.
+
+## Technologies Used
+
+-   **Nextjs**
+  
+-   **MediaPipe** 
+
+-   **Tone.js**
+
+-   **ShadcnUi**
+
+-   **Vercel**
+-   
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request. 
+
+## Contact
+
+If you wish to connect with me, you can reach out through the following channels:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/chirag-khaitan" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:chiragkhaitan2014@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.instagram.com/thechiragkhaitan" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+© 2024 Chirag Khaitan
+
+Enjoy playing Rocket Rush!
